@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Archivos de lock y configuración de npm
+package-lock.json
+package.json
+
+# Configuración de PostCSS, Tailwind y Vite
+*.config.js
+
